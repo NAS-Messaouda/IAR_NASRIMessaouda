@@ -1,2 +1,3 @@
 # Project
-My first repository on GitHub Hi !!
+Word-level Deep Sign Language Recognition from Video
+
